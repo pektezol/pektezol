@@ -1,0 +1,1 @@
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pektezol&column=9&theme=gruvbox&no-frame=true&column=9&row=1" /></a></p>
